@@ -1,3 +1,6 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+---
 <!------
   /------------------
 // Big SVG hero Name
