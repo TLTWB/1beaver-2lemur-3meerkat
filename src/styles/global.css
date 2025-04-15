@@ -19,5 +19,6 @@
   /* Use variable font if supported */
   :root {
     font-family: InterVariable, sans-serif;
+    line-height: 150%;
   }
 }
