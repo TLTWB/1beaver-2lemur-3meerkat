@@ -2,6 +2,7 @@
 @theme {
   --color-primary: #161614;
   --color-secondary: #f4f5ef;
+  --color-red: #ff0000;
 }
 /* CSS */
 :root {
